@@ -1,0 +1,120 @@
+ {
+  "fundamentals": [
+    {
+      "name": "Learn Kotlin",
+      "rating": "4.4",
+      "price": "10",
+      "image": "https://img-c.udemycdn.com/course/240x135/1322796_9675.jpg"
+    },
+    {
+      "name": "Learn Swift",
+      "rating": "4.3",
+      "price": "11",
+      "image": "https://img-c.udemycdn.com/course/240x135/235886_c640_3.jpg"
+    },
+    {
+      "name": "Master Python",
+      "rating": "4.5",
+      "price": "12",
+      "image": "https://www.gom.com/-/media/gom-website/global/services/gom-training-overview/elearning/gom_elearning-python-for-beginners_teaser.jpg?as=0&dmc=0&thn=0"
+    },
+    {
+      "name": "Learn Java",
+      "rating": "4.4",
+      "price": "12",
+      "image": "https://storage.ning.com/topology/rest/1.0/file/get/8667507462?profile=RESIZE_710x"
+    },
+    {
+      "name": "Javascript",
+      "rating": "4.7",
+      "price": "14",
+      "image": "https://i.morioh.com/2020/03/25/4abaa0c99507.jpg"
+    },
+    {
+      "name": "PHP",
+      "rating": "4.4",
+      "price": "11",
+      "image": "https://laravelnews.imgix.net/images/phplogo-1617378886.jpg?ixlib=php-3.3.1"
+    }
+  ],
+  "backend": [
+    {
+      "name": "Spring Boot",
+      "rating": "4.3",
+      "price": "13",
+      "image": "https://www.azilen.com/blog/wp-content/uploads/2016/04/everything-must-know-spring-boot-application-scratch_12.jpg"
+    },
+    {
+      "name": "Django",
+      "rating": "4.5",
+      "price": "16",
+      "image": "https://embed-ssl.wistia.com/deliveries/7c4442ffb4a083ece26951c8a3bd418f.jpg"
+    },
+    {
+      "name": "Laravel",
+      "rating": "4.6",
+      "price": "18",
+      "image": "https://cms-assets.tutsplus.com/uploads/users/71/courses/854/preview_image/get-started-with-laravel-6-400x277.png"
+    }
+  ],
+  "frontend": [
+    {
+      "name": "Master React",
+      "rating": "4.5",
+      "price": "16",
+      "image": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg"
+    },
+    {
+      "name": "Learn Vue",
+      "rating": "4.6",
+      "price": "15",
+      "image": "https://img-c.udemycdn.com/course/240x135/995016_ebf4_3.jpg"
+    },
+    {
+      "name": "Learn Angular",
+      "rating": "4.6",
+      "price": "18",
+      "image": "https://miro.medium.com/max/2000/1*fKb9TdxSYjVzWindUWaGUg.png"
+    }
+  ],
+  "fullstack": [
+    {
+      "name": "The Mean Stack",
+      "rating": "4.8",
+      "price": "19",
+      "image": "https://www.goodworklabs.com/wp-content/uploads/2017/08/Mean.jpg"
+    },
+    {
+      "name": "The MERN Stack",
+      "rating": "4.8",
+      "price": "19",
+      "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0FRJGdyZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg"
+    }
+  ],
+  "mobile": [
+    {
+      "name": "Android Development",
+      "rating": "4.3",
+      "price": "15",
+      "image": "https://img-c.udemycdn.com/course/240x135/1424326_2ee2_2.jpg"
+    },
+    {
+      "name": "IOS Development",
+      "rating": "4.4",
+      "price": "15",
+      "image": "https://img-c.udemycdn.com/course/240x135/916642_2bcb_3.jpg"
+    },
+    {
+      "name": "Learn Flutter",
+      "rating": "4.6",
+      "price": "16",
+      "image": "https://img-c.udemycdn.com/course/240x135/1708340_7108_5.jpg"
+    },
+    {
+      "name": "React Native",
+      "rating": "4.6",
+      "price": "15",
+      "image": "https://img-c.udemycdn.com/course/240x135/1436092_2024_4.jpg"
+    }
+  ]
+}
