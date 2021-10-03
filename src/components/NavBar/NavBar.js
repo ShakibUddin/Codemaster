@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-    BrowserRouter as Router, Link, Route, Switch
+    HashRouter as Router, Link, Route, Switch
 } from "react-router-dom";
 import About from '../About/About';
 import Courses from '../Courses/Courses';
@@ -34,6 +34,7 @@ const NavBar = () => {
                     </ul>
                 </nav>
                 <Switch>
+                    <Route exact path="/"><Home></Home></Route>
                     <Route exact path="/home"><Home></Home></Route>
                     <Route exact path="/courses"><Courses></Courses></Route>
                     <Route exact path="/trainers"><Trainers></Trainers></Route>
