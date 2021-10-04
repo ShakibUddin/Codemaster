@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-    HashRouter as Router, Link, Route, Switch
+    BrowserRouter as Router, Link, Route, Switch
 } from "react-router-dom";
 import About from '../About/About';
 import Courses from '../Courses/Courses';
