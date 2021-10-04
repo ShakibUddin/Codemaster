@@ -1,6 +1,7 @@
 import React from 'react';
 
 const NotFound = () => {
+    //not found component when user enters invalid url
     return (
         <div className="container flex flex-col justify-center h-96 items-center">
             <p className="text-8xl text-red-500 font-extrabold p-5">404</p>

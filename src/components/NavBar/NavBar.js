@@ -31,6 +31,7 @@ const NavBar = () => {
                     </ul>
                 </nav>
                 <Switch>
+                    {/* using exact keyword to match with exact path */}
                     <Route exact path="/"><Home></Home></Route>
                     <Route exact path="/home"><Home></Home></Route>
                     <Route exact path="/courses"><Courses></Courses></Route>

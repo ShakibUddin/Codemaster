@@ -1,6 +1,7 @@
 import React from 'react';
 
 const TrainerCard = (props) => {
+    //destructuring trainer data
     let { name, occupation, description, image } = props.trainer;
     console.log(props.course)
     return (

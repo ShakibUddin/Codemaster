@@ -10,6 +10,7 @@ const Courses = () => {
     let [mobile, setMobile] = useState([]);
 
     useEffect(() => {
+        //fetching all data from json files
         fetch("data/fullstack.json")
             .then(res => res.json())
             .then(data => setFullstack(data));
@@ -29,6 +30,7 @@ const Courses = () => {
     return (
         <div className="container justify-items-start flex-wrap">
             {
+                //showing progress indicator untill data loads
                 mobile.length === 0 ? <ProgressIndicator></ProgressIndicator> :
                     <div>
                         <p className="text-3xl font-extrabold">Fundamental Courses</p>

@@ -6,6 +6,7 @@ const Home = () => {
     let [fundamentals, setFundamentals] = useState([]);
 
     useEffect(() => {
+        //fetching data from json files
         fetch("data/fullstack.json")
             .then(res => res.json())
             .then(data => setFullstack(data));
@@ -21,6 +22,7 @@ const Home = () => {
             </div>
             <p className="text-3xl font-extrabold">Trending Courses</p>
             <div className="flex justify-evenly flex-wrap">
+                {/* displaying the trending courses */}
                 {
                     fullstack.map(course => <CourseCard key={course.id} course={course}></CourseCard>)
                 }

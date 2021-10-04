@@ -2,6 +2,7 @@ import React from 'react';
 import StarRatings from 'react-star-ratings';
 
 const CourseCard = (props) => {
+    //destructuring course data
     let { name, rating, price, image } = props.course;
     console.log(props.course)
     return (

@@ -5,6 +5,7 @@ import TrainerCard from '../TrainerCard/TrainerCard';
 const Trainers = () => {
     let [trainers, setTrainers] = useState([]);
     useEffect(() => {
+        //fetching trainers
         fetch('data/trainers.json')
             .then(res => res.json())
             .then(data => setTrainers(data));
