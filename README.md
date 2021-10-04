@@ -4,4 +4,4 @@
 - Learn from the best
 - Graduate and get a dev job
 
-Live => https://codemaster-sakib.netlify.app/index.html
+Live => https://codemaster-sakib.netlify.app/
