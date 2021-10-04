@@ -15,8 +15,9 @@ const Home = () => {
     }, []);
     return (
         <div className="container flex flex-col items-center">
-            <div className="w-8/12">
-                <img className="w-full object-cover mx-auto" src={bg} alt="" />
+            <div className="w-full flex items-center lg:flex-row flex-col">
+                <p className="w-2/4 lg:text-5xl text-3xl leading-relaxed"><q className="text-black italic">An investment in <span className="text-yellow-500 font-bold">knowledge</span> pays the best interest.</q> –  <span className="lg:font-extrabold font-bold">Benjamin Franklin</span></p>
+                <img className="w-2/4 object-cover mx-auto" src={bg} alt="" />
             </div>
             <p className="text-3xl font-extrabold">Trending Courses</p>
             <div className="flex justify-evenly flex-wrap">

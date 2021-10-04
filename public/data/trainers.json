@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Amy Hua",
+    "occupation": "Software Engineer, Paypal",
+    "description": "Amy has 6+ years of experience as a software professional, building everything from data visualizations to self-driving cars. She's been a bootcamp instructor, StartupBus mentor, and Girls Who Code instructor.",
+    "image": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/17rhZOlipFGj17cdmwPKLL/012c885233bbd86e39164e1b95b9349f/amy.png"
+  },
+  {
+    "id": 2,
+    "name": "Caryn McCarthy",
+    "occupation": "Software Engineer, Trivago",
+    "description": "Caryn has worked as a software developer and as Coach and Experience Manager at Code Next at Google. She is passionate about diversity and equity in tech, is always working to create positive impact in the tech industry and the world.",
+    "image": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/A8BWHr3YTpGben61jthJT/68b698003d19d117bbc6c28225829b52/caryn.png"
+  },
+  {
+    "id": 3,
+    "name": "Gabriel Ruttner",
+    "occupation": "Senior Software Engineer, Alibaba",
+    "description": "Gabe is the CTO at Ursa & Tech Advisor for Start-Ups. He has expertise in building cloud-based machine learning and natural language processing services at early stage tech companies. He holds technical degrees from Cornell University and Stony Brook University.",
+    "image": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/3jk0c1eJ7om0NoyzVTn2ml/4b354bdf6f808b80013e86fc49b9f2d8/gabe.png"
+  },
+  {
+    "id": 4,
+    "name": "Kennedy Behrman",
+    "occupation": "Senior Software Engineer, Oracle",
+    "description": "Kennedy is a veteran consultant and author, specializing in architecting and implementing cloud solutions for early-stage startups. He is experienced in data engineering, data science, AWS solutions, and engineering management.",
+    "image": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/FzMXc4eHolu3CLZYjOZPF/a0e9358501b0f2e16e8c145505ae3f48/kennedy.png"
+  },
+  {
+    "id": 5,
+    "name": "Aleks Haecky",
+    "occupation": "DEVELOPER ADVOCATE, Google",
+    "description": "Aleks is a Writer and Developer Advocate with over 20 years of experience developing media and tools that bring technologies and programming to developers. They believe in the power of education, and Android development as a skill that can change lives.",
+    "image": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/3GCJ0cc9muMcooERaX3Jcu/26021bc03a6b27b94f4d44c61f4a068a/Aleks_Haecky_tensorflowlite.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Jarrod Parkes",
+    "occupation": "Software Engineer, Apple",
+    "description": "Jarrod is an experienced iOS developer with a passion for reinventing how students learn. He holds a BS in Computer Science from the University of Alabama.",
+    "image": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/1Zvvlf6mUcXP9YxvbYQlvI/e3ac308e94fb9f029f505b6c59e61985/Jarrod_Parkes.jpg"
+  }
+]
