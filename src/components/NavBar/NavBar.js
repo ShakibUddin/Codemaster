@@ -15,21 +15,21 @@ const NavBar = () => {
             <Router>
                 <nav className="container my-6 flex justify-between">
                     <h1 className="text-3xl font-extrabold text-blue-500">CODEMASTER</h1>
-                    <ul class="flex flex-wrap justify-center">
-                        <li class="-mb-px mr-1">
-                            <Link class="bg-white inline-block py-2 px-4 text-blue-500 font-semibold" to="/home">Home</Link>
+                    <ul className="flex flex-wrap justify-center">
+                        <li className="-mb-px mr-1">
+                            <Link className="bg-white inline-block py-2 px-4 text-blue-500 font-semibold" to="/home">Home</Link>
                         </li>
-                        <li class="mr-1">
-                            <Link class="bg-white inline-block py-2 px-4 text-blue-500  font-semibold" to="/courses">Courses</Link>
+                        <li className="mr-1">
+                            <Link className="bg-white inline-block py-2 px-4 text-blue-500  font-semibold" to="/courses">Courses</Link>
                         </li>
-                        <li class="mr-1">
-                            <Link class="bg-white inline-block py-2 px-4 text-blue-500  font-semibold" to="/trainers">Trainers</Link>
+                        <li className="mr-1">
+                            <Link className="bg-white inline-block py-2 px-4 text-blue-500  font-semibold" to="/trainers">Trainers</Link>
                         </li>
-                        <li class="mr-1">
-                            <Link class="bg-white inline-block py-2 px-4 text-blue-500 font-semibold" to="/graduates">Graduates</Link>
+                        <li className="mr-1">
+                            <Link className="bg-white inline-block py-2 px-4 text-blue-500 font-semibold" to="/graduates">Graduates</Link>
                         </li>
-                        <li class="mr-1">
-                            <Link class="bg-white inline-block py-2 px-4 text-blue-500 font-semibold" to="/about">About</Link>
+                        <li className="mr-1">
+                            <Link className="bg-white inline-block py-2 px-4 text-blue-500 font-semibold" to="/about">About</Link>
                         </li>
                     </ul>
                 </nav>

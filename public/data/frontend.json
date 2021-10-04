@@ -1,0 +1,26 @@
+[
+  {
+    "id": 10,
+    "name": "Master React",
+    "rating": "4.7",
+    "price": "16",
+    "trending": 0,
+    "image": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Learn Vue",
+    "rating": "4.6",
+    "price": "15",
+    "trending": 0,
+    "image": "https://img-c.udemycdn.com/course/240x135/995016_ebf4_3.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Learn Angular",
+    "rating": "4.6",
+    "price": "18",
+    "trending": 0,
+    "image": "https://miro.medium.com/max/2000/1*fKb9TdxSYjVzWindUWaGUg.png"
+  }
+]

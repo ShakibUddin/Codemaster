@@ -1,0 +1,18 @@
+[
+  {
+    "id": 13,
+    "name": "The MEAN Stack",
+    "rating": "4.60",
+    "price": "19",
+    "trending": 0,
+    "image": "https://www.goodworklabs.com/wp-content/uploads/2017/08/Mean.jpg"
+  },
+  {
+    "id": 14,
+    "name": "The MERN Stack",
+    "rating": "4.85",
+    "price": "20",
+    "trending": 0,
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0FRJGdyZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Learn Kotlin",
+    "rating": "4.4",
+    "price": "10",
+    "image": "https://img-c.udemycdn.com/course/240x135/1322796_9675.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Learn Swift",
+    "rating": "4.3",
+    "trending": 0,
+    "price": "11",
+    "image": "https://img-c.udemycdn.com/course/240x135/235886_c640_3.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Master Python",
+    "rating": "4.6",
+    "price": "13",
+    "trending": 1,
+    "image": "https://www.gom.com/-/media/gom-website/global/services/gom-training-overview/elearning/gom_elearning-python-for-beginners_teaser.jpg?as=0&dmc=0&thn=0"
+  },
+  {
+    "id": 4,
+    "name": "Learn Java",
+    "rating": "4.4",
+    "price": "12",
+    "trending": 0,
+    "image": "https://storage.ning.com/topology/rest/1.0/file/get/8667507462?profile=RESIZE_710x"
+  },
+  {
+    "id": 5,
+    "name": "Javascript",
+    "rating": "4.7",
+    "price": "14",
+    "trending": 1,
+    "image": "https://i.morioh.com/2020/03/25/4abaa0c99507.jpg"
+  },
+  {
+    "id": 6,
+    "name": "PHP",
+    "rating": "4.4",
+    "price": "11",
+    "trending": 0,
+    "image": "https://laravelnews.imgix.net/images/phplogo-1617378886.jpg?ixlib=php-3.3.1"
+  }
+]
