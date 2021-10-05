@@ -6,8 +6,8 @@ const CourseCard = (props) => {
     let { name, rating, price, image } = props.course;
     console.log(props.course)
     return (
-        <div style={{ minWidth: "300px" }} className="w-3/12 m-6 flex flex-col justify-start shadow-2xl rounded-lg overflow-hidden">
-            <img className="w-full" src={image} alt="" />
+        <div style={{ minWidth: "300px" }} className="w-96 m-6 flex flex-col justify-start shadow-2xl rounded-lg overflow-hidden">
+            <img className="w-full h-60" src={image} alt="" />
             <div className="p-3">
                 <p className="font-bold text-3xl py-3">{name}</p>
                 <StarRatings

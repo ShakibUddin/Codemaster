@@ -12,24 +12,26 @@ const NavBar = () => {
     return (
         <div className="flex flex-col justify-center flex-wrap">
             <Router>
-                <nav className="container my-6 flex justify-between">
-                    <h1 className="text-3xl font-extrabold text-blue-500">CODEMASTER</h1>
-                    <ul className="flex flex-wrap justify-center">
-                        <li className="-mb-px mr-1">
-                            <Link className="bg-white inline-block py-2 px-4 text-blue-500 font-semibold" to="/home">Home</Link>
-                        </li>
-                        <li className="mr-1">
-                            <Link className="bg-white inline-block py-2 px-4 text-blue-500  font-semibold" to="/courses">Courses</Link>
-                        </li>
-                        <li className="mr-1">
-                            <Link className="bg-white inline-block py-2 px-4 text-blue-500  font-semibold" to="/trainers">Trainers</Link>
-                        </li>
+                <div className="container flex lg:flex-row flex-col my-8 sm:items-center justify-between">
+                    <h1 className="text-3xl font-extrabold text-blue-500 text-center">CODEMASTER</h1>
+                    <nav>
+                        <ul className="flex flex-wrap justify-center">
+                            <li className="mr-1">
+                                <Link className="bg-white inline-block py-2 px-4 text-blue-500 font-semibold" to="/home">Home</Link>
+                            </li>
+                            <li className="mr-1">
+                                <Link className="bg-white inline-block py-2 px-4 text-blue-500  font-semibold" to="/courses">Courses</Link>
+                            </li>
+                            <li className="mr-1">
+                                <Link className="bg-white inline-block py-2 px-4 text-blue-500  font-semibold" to="/trainers">Trainers</Link>
+                            </li>
 
-                        <li className="mr-1">
-                            <Link className="bg-white inline-block py-2 px-4 text-blue-500 font-semibold" to="/about">About</Link>
-                        </li>
-                    </ul>
-                </nav>
+                            <li className="mr-1">
+                                <Link className="bg-white inline-block py-2 px-4 text-blue-500 font-semibold" to="/about">About</Link>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
                 <Switch>
                     {/* using exact keyword to match with exact path */}
                     <Route exact path="/"><Home></Home></Route>
